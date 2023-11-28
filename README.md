@@ -17,7 +17,7 @@ License
 Copy the SSH key from github.com/viisi-script. Clone the SSH locally.
 
 ## Usage
-Open the webpage in Google Chrome.
+Open the webpage in Google Chrome via https://github.com/oliverstamper/viisi-script
 
 Click on the generate password button.
 

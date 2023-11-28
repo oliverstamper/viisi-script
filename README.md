@@ -21,15 +21,15 @@ Open the webpage in Google Chrome.
 
 Click on the generate password button.
 
-![image]
+![image](https://github.com/oliverstamper/viisi-script/blob/main/image1.png)
 
 Answer prompt regarding password lengths.
 
-![image]
+![image](https://github.com/oliverstamper/viisi-script/blob/main/image2.png)
 
 Specify which characters you want to use.
 
-![image]
+![image](https://github.com/oliverstamper/viisi-script/blob/main/image1.png)
 
 ## Credits
 
